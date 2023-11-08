@@ -1,0 +1,4 @@
+name: guildPlugin
+version: '${project.version}'
+main: net.juxyc.guilds.BukkitPlugin
+authors: [juxyc, M4Creators]
